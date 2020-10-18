@@ -21,9 +21,9 @@ Member 3:
  
 Member 4:
  + Name: Nguyễn Văn Luân
- + Student Code :  
- + Mail : 
- + Contacts :
+ + Student Code : 18020860
+ + Mail : gioanluan09@gmail.com
+ + Contacts : 0924325370
  
 Member 5:
  + Name: Nguyễn Văn Tâm
